@@ -1,4 +1,4 @@
-Project 1: Rule-Based AI Chatbot
+Rule-Based AI Chatbot
 
 
 Goal
@@ -11,8 +11,8 @@ How to Run
 
 python3 chatbot.py
 
-Features (matches the Project 1 spec)
 
+Features:
 
 • Input Loop: Continuous while True cycle (the "heartbeat").
 
